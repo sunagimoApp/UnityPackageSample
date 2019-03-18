@@ -1,0 +1,9 @@
+{
+    "name": "com.sunagimoapp.package",
+    "displayName": "PackageManagerSample",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "package manager sample",
+    "keywords": ["Script", "sample"],
+    "dependencies": { }
+}
